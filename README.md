@@ -74,20 +74,6 @@ Currently at **91trucks (VVPL)** as a **Senior Software Engineer**, where I lead
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Alok's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alokwritescode&show_icons=true&theme=default&hide_border=true&title_color=3267E3&icon_color=2FAA83&text_color=1a1d2e&bg_color=f8f9fc)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alokwritescode&layout=compact&theme=default&hide_border=true&title_color=3267E3&text_color=1a1d2e&bg_color=f8f9fc)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=alokwritescode&theme=default&hide_border=true&ring=3267E3&fire=2FAA83&currStreakLabel=3267E3)
-
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 ### 🏢 [Inventix CRM](https://cv.91trucks.com/) · [Play Store](https://play.google.com/store/apps/details?id=com.trucks.inventix)
